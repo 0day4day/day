@@ -1,4 +1,4 @@
 # gaga
-chat with insue
+chat with Issues
 
 xiga
